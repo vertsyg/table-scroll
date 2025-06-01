@@ -6,20 +6,21 @@
 
 ### 1. Введите в терминале:
 
->git clone https://github.com/vertsyg/table-scroll.git
+> git clone https://github.com/vertsyg/table-scroll.git
 
->npm install
+> npm install
 
->npm run start:api
+> npm run start:api
 
->npm run dev
+> npm run dev
 
 ---
 
-### 2. Проект также можно открыть на github-pages по ссылке:
+### 2. Проект также можно открыть на github-pages по ссылке: https://vertsyg.github.io/table-scroll/
 
 ## Технологии:
-- React `v18`
+
+- React `v19`
 - TypeScript
 - MUI
 - React hook form
