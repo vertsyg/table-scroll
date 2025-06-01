@@ -1,0 +1,212 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "title": "Смартфон Galaxy S24",
+      "price": 999,
+      "description": "Флагман с AMOLED-экраном 6.2\", 256 ГБ памяти, тройная камера",
+      "category": "Смартфоны",
+      "inStock": true
+    },
+    {
+      "id": "2",
+      "title": "Ноутбук MacBook Pro 14\"",
+      "price": 1999,
+      "description": "M2 Pro, 16 ГБ ОЗУ, 512 ГБ SSD, Retina-дисплей",
+      "category": "Ноутбуки",
+      "inStock": true
+    },
+    {
+      "id": "3",
+      "title": "Наушники Sony WH-1000XM5",
+      "price": 349,
+      "description": "Беспроводные, с шумоподавлением, автономность 30 часов",
+      "category": "Аудио",
+      "inStock": true
+    },
+    {
+      "id": "4",
+      "title": "Умные часы Apple Watch Series 9",
+      "price": 429,
+      "description": "Экран Always-On, отслеживание ЭКГ, водонепроницаемость",
+      "category": "Гаджеты",
+      "inStock": false
+    },
+    {
+      "id": "5",
+      "title": "Планшет iPad Air 2024",
+      "price": 599,
+      "description": "10.9\", чип M1, поддержка Apple Pencil",
+      "category": "Планшеты",
+      "inStock": true
+    },
+    {
+      "id": "6",
+      "title": "Фотоаппарат Canon EOS R6",
+      "price": 2499,
+      "description": "Полнокадровая беззеркалка, 20 кадр/с, 4K-видео",
+      "category": "Фототехника",
+      "inStock": true
+    },
+    {
+      "id": "7",
+      "title": "Игровая консоль PlayStation 5",
+      "price": 499,
+      "description": "SSD 825 ГБ, поддержка 4K 120 Гц, DualSense",
+      "category": "Игровые консоли",
+      "inStock": false
+    },
+    {
+      "id": "8",
+      "title": "Монитор Dell UltraSharp 32\"",
+      "price": 899,
+      "description": "4K UHD, HDR, USB-C, 99% sRGB",
+      "category": "Мониторы",
+      "inStock": true
+    },
+    {
+      "id": "9",
+      "title": "Внешний SSD Samsung T7",
+      "price": 129,
+      "description": "1 ТБ, скорость до 1050 МБ/с, защита от ударов",
+      "category": "Накопители",
+      "inStock": true
+    },
+    {
+      "id": "10",
+      "title": "Электросамокат Xiaomi Pro 2",
+      "price": 499,
+      "description": "Запас хода 45 км, скорость до 25 км/ч, вес 14.2 кг",
+      "category": "Транспорт",
+      "inStock": true
+    },
+    {
+      "id": "11",
+      "title": "Беспроводная клавиатура Logitech MX Keys",
+      "price": 99,
+      "description": "Подсветка, мультиустройство, эргономичный дизайн",
+      "category": "Периферия",
+      "inStock": true
+    },
+    {
+      "id": "12",
+      "title": "Мышь Razer DeathAdder V3",
+      "price": 69,
+      "description": "25K DPI, 8 программируемых кнопок, RGB-подсветка",
+      "category": "Геймерские аксессуары",
+      "inStock": false
+    },
+    {
+      "id": "13",
+      "title": "Робот-пылесос Roborock S8",
+      "price": 799,
+      "description": "Лазерная навигация, моющий модуль, управление через приложение",
+      "category": "Умный дом",
+      "inStock": true
+    },
+    {
+      "id": "14",
+      "title": "Электрочайник Xiaomi Smart Kettle",
+      "price": 59,
+      "description": "1.5 л, контроль температуры, управление со смартфона",
+      "category": "Бытовая техника",
+      "inStock": true
+    },
+    {
+      "id": "15",
+      "title": "Фитнес-браслет Huawei Band 8",
+      "price": 49,
+      "description": "AMOLED-экран, SpO2, 100+ спортивных режимов",
+      "category": "Фитнес-гаджеты",
+      "inStock": true
+    },
+    {
+      "id": "16",
+      "title": "Проектор Epson Home Cinema 3200",
+      "price": 1299,
+      "description": "4K, HDR, 3000 люмен, встроенные динамики",
+      "category": "Домашний кинотеатр",
+      "inStock": false
+    },
+    {
+      "id": "17",
+      "title": "Беспроводной микрофон Rode Wireless Go II",
+      "price": 299,
+      "description": "Двухканальный, запись до 7 часов, компактный",
+      "category": "Аудиооборудование",
+      "inStock": true
+    },
+    {
+      "id": "18",
+      "title": "Электронная книга PocketBook 740",
+      "price": 199,
+      "description": "7.8\" E Ink Carta, подсветка, водонепроницаемость",
+      "category": "Электронные книги",
+      "inStock": true
+    },
+    {
+      "id": "19",
+      "title": "Игровой ноутбук ASUS ROG Zephyrus G15",
+      "price": 1799,
+      "description": "Ryzen 9, RTX 3070, 16 ГБ ОЗУ, 1 ТБ SSD",
+      "category": "Игровые ноутбуки",
+      "inStock": true
+    },
+    {
+      "id": "20",
+      "title": "Смарт-часы Garmin Venu 3",
+      "price": 449,
+      "description": "AMOLED, GPS, отслеживание сна и стресса",
+      "category": "Фитнес-гаджеты",
+      "inStock": false
+    },
+    {
+      "id": "21",
+      "title": "Беспроводная колонка JBL Charge 5",
+      "price": 179,
+      "description": "Стереозвук, влагозащита, 20 часов работы",
+      "category": "Аудио",
+      "inStock": true
+    },
+    {
+      "id": "22",
+      "title": "Виртуальная гарнитура Meta Quest 3",
+      "price": 499,
+      "description": "128 ГБ, 4K-дисплеи, трекинг рук",
+      "category": "VR-устройства",
+      "inStock": true
+    },
+    {
+      "id": "23",
+      "title": "Принтер HP LaserJet Pro",
+      "price": 299,
+      "description": "Лазерный, монохромный, скорость 30 стр/мин",
+      "category": "Офисная техника",
+      "inStock": true
+    },
+    {
+      "id": "24",
+      "title": "SSD-накопитель WD Black SN850X",
+      "price": 199,
+      "description": "1 ТБ, PCIe 4.0, скорость до 7300 МБ/с",
+      "category": "Комплектующие",
+      "inStock": false
+    },
+    {
+      "id": "25",
+      "title": "Экшн-камера GoPro Hero 12",
+      "price": 399,
+      "description": "5.3K 60fps, HyperSmooth 6.0, водонепроницаемость",
+      "category": "Экшн-камеры",
+      "inStock": true
+    },
+    {
+      "id": "26",
+      "title": "Графический планшет Wacom Intuos Pro",
+      "price": 349,
+      "description": "8192 уровня нажатия, Bluetooth, 8 экспресс-кнопок",
+      "category": "Творчество",
+      "inStock": true
+    }
+  ]
+}
